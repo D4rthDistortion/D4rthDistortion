@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D4rthDistortion
+- 👋 Hi, I’m @Stephen!
 - 👀 I’m interested in learning web design skills!
 - 🌱 I’m currently learning HTML/CSS and Javascript
 - 💞️ I’m looking to collaborate on project ideas so I can hone my newly acquired skills!
